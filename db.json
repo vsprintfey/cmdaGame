@@ -4,7 +4,7 @@
         "error": "false",
         "Success": true,
         "data": {
-            "where": true,
+            "where": false,
             "version": "125",
             "versionName": "1.2.5",
             "time": "2023-05-09",
